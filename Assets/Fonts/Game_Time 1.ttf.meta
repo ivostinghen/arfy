@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: df1156bc7d093784c986d5189f121aa3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Game_Time
+  fontNames:
+  - Game_Time
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5220a8e9569e9c4b9c0ba0e6b2c7baf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
