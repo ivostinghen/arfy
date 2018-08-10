@@ -44,7 +44,7 @@ public class MenuController : MonoBehaviour
 
 	public  void InfoBt()
 	{
-
+		Application.OpenURL("https://vmh515.wixsite.com/arfy/sobre-a-empresa");
 	}
 
 	public void LoadCard(string scene)
@@ -54,7 +54,9 @@ public class MenuController : MonoBehaviour
 
 	public void QuitBt()
 	{
+
 		Application.Quit();
+		
 	}
 
 	

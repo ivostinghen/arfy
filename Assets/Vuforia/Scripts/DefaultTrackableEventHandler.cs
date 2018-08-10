@@ -50,22 +50,26 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     /// </summary>
     private bool assistance;
     public bool colorScene;
+    public string scene ;
     public void TrackAssistance(bool value)
     {
         // Destroy(GameObject.Find("TrackAssistance").gameObject);
+        if(scene.Equals("math")){
+            return;
+        }
         GameObject t = GameObject.Find("TrackAssistance");
-        if(!colorScene)
+        if(scene.Equals("color"))
         {	
             
-		    t.transform.GetComponentInChildren<Text>().text="Muito bem!\nAgora clique no chão para mover seu personagem";
+		    
+            GameObject.Find("Crystals").transform.GetChild(0).gameObject.SetActive(true);
+             t.transform.GetComponentInChildren<Text>().text="Toque na menina para interagir!";
+             // Agora clique na primeira barreira colorida";
 		    
         }
         else
         {
-        	GameObject.Find("Crystals").transform.GetChild(0).gameObject.SetActive(true);
-        	 t.transform.GetComponentInChildren<Text>().text="Toque na menina para interagir!";
-        	 // Agora clique na primeira barreira colorida";
-		    
+            t.transform.GetComponentInChildren<Text>().text="Muito bem!\nAgora clique no chão para mover seu personagem";
         }
         Destroy(t.transform.GetChild(1).gameObject);
 		assistance = true;
@@ -137,8 +141,8 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
             component.enabled = false;
 
         // Disable colliders:
-        foreach (var component in colliderComponents)
-            component.enabled = false;
+        // foreach (var component in colliderComponents)
+        //     component.enabled = false;
 
         // Disable canvas':
         foreach (var component in canvasComponents)
