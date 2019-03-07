@@ -22,7 +22,7 @@ This is a free, open source game, so fell free to download it and contact me for
 <img src="demo-images/gameplay1.gif" width="500">
 
 - LEVEL 2 (fruits vocabulary)
-<img src="demo-images/gameplay2.gif" width=350">
+<img src="demo-images/gameplay2.gif" width="350">
 
 <img src="demo-images/gameplay3.gif" width="350">
 
