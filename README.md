@@ -1,9 +1,9 @@
-<h3>Hi, my name is Ivo Stinghen and welcome to my Augment Reality & IBM Watson Voice Recognition Unity Game Repository! (you can breath now)
+<h3>&#x1F4D7;&nbsp;&nbsp;Hi, my name is Ivo Stinghen and welcome to my Augment Reality & IBM Watson Voice Recognition Unity Game Repository! (you can breath now)
 <h4>This repository comes with a demo game, including 2 Levels, 
 each with different goals, but the same objective, learn english.
 Due to it's funny and ludic scenario using augment reality cards and speaking to complete quests, children had more desire to learn English.  </h4>
 
-This is a free, open source game, so fell free to download it and contact me for any questions.
+<h4>&#x1F537;&nbsp;&nbsp;Note:This is a free, open source repository, so fell free to download it and contact me for any questions.
 
 <h4>What is the main structure used here?
 
