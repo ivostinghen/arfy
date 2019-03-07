@@ -19,15 +19,15 @@ This is a free, open source game, so fell free to download it and contact me for
 - Listen, Read and Speak very easy english words, so the correct answear will lead you to a next part of the level.
   
 - LEVEL 1 (colors vocabulary)
-<img src="demo-images/gameplay1.gif" width="600">
+<img src="demo-images/gameplay1.gif" width="500">
 
 - LEVEL 2 (fruits vocabulary)
-<img src="demo-images/gameplay2.gif" width="400">
+<img src="demo-images/gameplay2.gif" width=350">
 
-<img src="demo-images/gameplay3.gif" width="400">
+<img src="demo-images/gameplay3.gif" width="350">
 
 -Ideas for future work
   - Change color, size and other character features just speaking to the character.
+  - Link: https://youtu.be/K8eXoa6Y_hQ
   
-  <img src="demo-images/future-work.gif" width="400">
-
+  
