@@ -3,7 +3,7 @@
 each with different goals, but the same objective, learn english.
 Due to it's funny and ludic scenario using augment reality cards and speaking to complete quests, children had more desire to learn English.  </h4>
 
-<h4>&#x1F537;&nbsp;&nbsp;Note:This is a free, open source repository, so fell free to download it and contact me for any questions.
+<h4>&#x1F537;&nbsp;&nbsp;Note:This is a free open source repository, so fell free to download it and contact me for any questions.
 
 <h4>What is the main structure used here?
 
